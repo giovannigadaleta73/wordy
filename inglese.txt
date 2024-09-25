@@ -1,0 +1,30 @@
+scuola :: école [eˈkɔl].
+infermiere :: un infirmier [ɛ̃fiʁˈmje], une infirmière [ɛ̃fiʁˈmjɛʁ], des infirmiers [dɛ ɛ̃fiʁˈmje], des infirmières [dɛ ɛ̃fiʁˈmjɛʁ].
+perché :: pourquoi [puʁˈkwa].
+trasloco :: un déménagement [demenaʒˈmɑ̃], des déménagements [dɛ demenaʒˈmɑ̃]
+traslocare :: déménager [demenaʒˈe].
+accogliente :: un accueillant [akœjˈɑ̃], une accueillante [akœjˈɑ̃t], des accueillants [dɛ akœjˈɑ̃], des accueillantes [dɛ akœjˈɑ̃t].
+torta :: un gâteau [ɡɑˈto], des gâteaux [dɛ ɡɑˈto].
+preferito :: un préféré [pʁefeˈʁe], une préférée [pʁefeˈʁe], des préférés [dɛ pʁefeˈʁe], des préférées [dɛ pʁefeˈʁe].
+migliore :: un meilleur [mɛjˈœʁ], une meilleure [mɛjˈœʁ], des meilleurs [dɛ mɛjˈœʁ], des meilleures [dɛ mɛjˈœʁ].
+bello :: un beau [bo], une belle [bɛl], des beaux [dɛ bo], des belles [dɛ bɛl].
+molto :: beaucoup [boku].
+poco :: peu [pø].
+tavolo :: une table [tabl].
+sedia :: une chaise [ʃɛz].
+finestra :: une fenêtre [fənɛtʁ].
+scrivania :: un bureau [byˈʁo], des bureaux [dɛ byˈʁo].
+lavandino :: un évier [evje], des éviers [dɛ evje].
+posate :: des couverts [dɛ kuvɛʁ].
+forchetta :: une fourchette [fuʁʃɛt].
+coltello :: un couteau [kuto], des couteaux [dɛ kuto].
+cucchiaio :: une cuillère [kɥijɛʁ].
+cucchiaino :: une petite cuillère [pətit kɥijɛʁ].
+bicchiere :: un verre [vɛʁ].
+tazza :: une tasse [tas].
+piatto piano :: une assiette plate [asjɛt plat].
+piatto fondo :: une assiette creuse [asjɛt kʁøz].
+insalatiera :: un saladier [saladjɛʁ], des saladiers [dɛ saladjɛʁ].
+caraffa :: une carafe [kaʁaf].
+bottiglia :: une bouteille [butɛj].
+meccanico :: un mécanicien [mekanisˈjɛ̃], une mécanicienne [mekanisˈjɛn], des mécaniciens [dɛ mekanisˈjɛ̃], des mécaniciennes [dɛ mekanisˈjɛn].
