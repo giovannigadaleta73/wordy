@@ -1,15 +1,15 @@
-to have :: avere
-hello :: ciao 
-why :: perché
-where :: dove 
-whale :: balena
-italy :: italia
-provide :: fornire
-borrow :: prestare
-steal :: rubare
-otherwhise :: altrimenti, diversamente
-supply :: erogazione, aumento, scorta
-phone :: telefono
-seat :: posto a sedere
-fire :: fuoco 
-water :: acqua
+to have :: avere.
+hello :: ciao.
+why :: perché.
+where :: dove.
+whale :: balena.
+italy :: italia.
+provide :: fornire.
+borrow :: prestare.
+steal :: rubare.
+otherwhise :: altrimenti, diversamente.
+supply :: erogazione, aumento, scorta.
+phone :: telefono.
+seat :: posto a sedere.
+fire :: fuoco.
+water :: acqua.
